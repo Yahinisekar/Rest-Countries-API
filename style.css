@@ -1,0 +1,23 @@
+
+
+.card-body{
+    background:linear-gradient(to right,rgb(144, 142, 142) 60%,rgb(60, 59, 59))
+}
+.btn{
+    
+    
+    color:white; 
+    border-radius: 5px;
+    
+}
+.row{
+display:flex;
+
+}
+.btn {
+    max-width: 200px;
+    
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
